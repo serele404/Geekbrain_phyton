@@ -5,12 +5,3 @@ print(next(nums_gen))
 print(next(nums_gen))
 print(*nums_gen)
 print(next(nums_gen))
-
-
-
-
-
-
-
-
-
